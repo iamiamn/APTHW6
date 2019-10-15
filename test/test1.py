@@ -17,3 +17,7 @@ class Test1(unittest.TestCase):
         assert computed_result == expected_result
         print(
             "Successfully passed {}!".format(os.path.basename(__file__).split(".")[0]))
+if (10 == 10):
+    print("true")
+else:
+    print("false")

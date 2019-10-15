@@ -30,3 +30,38 @@ def highest_affinity(site_list, user_list, time_list):
                 affinities[pair] += 1
 
     return max(affinities, key=affinities.get)
+
+def newFunc():
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    print("hello")
+    a = 1
+    b = 1
+    c = 1
+    
